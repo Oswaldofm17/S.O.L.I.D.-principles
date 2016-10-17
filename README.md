@@ -9,9 +9,13 @@ S.O.L.I.D significa:
 Cuando se expanden las siglas pueden parecer complicados, pero son bastante simple de entender.
 
 S - Single-Responsibility Principle (Principio de una sola Responsabilidad)
+
 O - Open-Closed Principle (Principio Abierto-Cerrado)
+
 L - Liskov Substitution Principle (Principio de Sustitución Liskov)
+
 I - Interface Segregation Principle (Principio Interfaz de la Segregación)
+
 D - Dependency Inversion Principle (Principio Dependencia Inversión)
 
 Veamos cada principio individualmente para entender por qué S.O.L.I.D nos puede ayudar a tomar mejores desarrolladores.
